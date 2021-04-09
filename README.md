@@ -39,9 +39,11 @@ Fish <|--  Animal : Extends
     class Fish{
      +name : String
     }
-    
+ <p align ="center">
+ <image src="/imgDiagrama/1.png"></image>
+ </p>  
 
-   ![](/imgDiagrama/1.png)
+  
    
    # Segundo diagrama
    
