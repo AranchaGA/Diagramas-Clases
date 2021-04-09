@@ -110,4 +110,7 @@ Fish <|--  Animal : Extends
     +Encyclopedia(String, double, int)void
     }
     
-   ![](/imgDiagrama/2.png)
+ <p align ="center">
+ <image src="/imgDiagrama/2.png"></image>
+ </p>  
+
